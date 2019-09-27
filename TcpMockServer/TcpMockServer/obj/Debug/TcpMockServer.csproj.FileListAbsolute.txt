@@ -1,0 +1,11 @@
+C:\source\teknik\mockeksamen\TcpMockServer\TcpMockServer\bin\Debug\TcpMockServer.exe.config
+C:\source\teknik\mockeksamen\TcpMockServer\TcpMockServer\bin\Debug\TcpMockServer.exe
+C:\source\teknik\mockeksamen\TcpMockServer\TcpMockServer\bin\Debug\TcpMockServer.pdb
+C:\source\teknik\mockeksamen\TcpMockServer\TcpMockServer\obj\Debug\TcpMockServer.csprojAssemblyReference.cache
+C:\source\teknik\mockeksamen\TcpMockServer\TcpMockServer\obj\Debug\TcpMockServer.csproj.CoreCompileInputs.cache
+C:\source\teknik\mockeksamen\TcpMockServer\TcpMockServer\obj\Debug\TcpMockServer.exe
+C:\source\teknik\mockeksamen\TcpMockServer\TcpMockServer\obj\Debug\TcpMockServer.pdb
+C:\source\teknik\mockeksamen\TcpMockServer\TcpMockServer\bin\Debug\Skatfærdig.dll
+C:\source\teknik\mockeksamen\TcpMockServer\TcpMockServer\bin\Debug\Skatfærdig.pdb
+C:\source\teknik\mockeksamen\TcpMockServer\TcpMockServer\bin\Debug\Skatfærdig.xml
+C:\source\teknik\mockeksamen\TcpMockServer\TcpMockServer\obj\Debug\TcpMockServer.csproj.CopyComplete
